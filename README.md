@@ -1,2 +1,0 @@
-# useDataApi
-Created with CodeSandbox
